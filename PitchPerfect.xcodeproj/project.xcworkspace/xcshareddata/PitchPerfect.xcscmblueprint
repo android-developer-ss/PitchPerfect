@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B670C1DC90702052F16D4745FF39CC0E22B2E3D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B670C1DC90702052F16D4745FF39CC0E22B2E3D2" : 0,
+    "54594BF56CEDA89770DE463708207AA0C13ACF18" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0E03C9B0-94FE-4A68-94EE-DE2BB9B5666D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B670C1DC90702052F16D4745FF39CC0E22B2E3D2" : "PitchPerfect\/",
+    "54594BF56CEDA89770DE463708207AA0C13ACF18" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PitchPerfect",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PitchPerfect.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/android-developer-ss\/IOS-Projects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "54594BF56CEDA89770DE463708207AA0C13ACF18"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/android-developer-ss\/PitchPerfect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B670C1DC90702052F16D4745FF39CC0E22B2E3D2"
+    }
+  ]
+}
