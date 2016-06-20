@@ -7,7 +7,7 @@
 import UIKit
 import AVFoundation
 
-extension PlaySoundsViewController: AVAudioPlayerDelegate {
+extension PlaySoundViewController: AVAudioPlayerDelegate {
     struct Alerts {
         static let DismissAlert = "Dismiss"
         static let RecordingDisabledTitle = "Recording Disabled"
@@ -154,7 +154,7 @@ extension PlaySoundsViewController: AVAudioPlayerDelegate {
         snailButton.enabled = enabled
         chipmunkButton.enabled = enabled
         rabbitButton.enabled = enabled
-        vaderButton.enabled = enabled
+        vadeButton.enabled = enabled
         echoButton.enabled = enabled
         reverbButton.enabled = enabled
     }
